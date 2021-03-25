@@ -6,3 +6,9 @@
 body{
     background: cadetblue;
 }
+.container{
+    margin-left: 40%;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+}
